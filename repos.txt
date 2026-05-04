@@ -4,10 +4,10 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 # v2rayNG - اندروید arm64
-2dust/v2rayNG|arm64-v8a
+2dust/v2rayN|arm64-v8a
 
 # v2rayN - ویندوز
-2dust/v2rayN\.zip
+2dust/v2rayN|windows
 
 # MasterHttpRelayVPN - اندروید و ویندوز
 therealaleph/MasterHttpRelayVPN-RUST|android-arm64-v8a|windows-amd64
