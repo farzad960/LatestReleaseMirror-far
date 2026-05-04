@@ -157,22 +157,6 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="2dust--v2rayn"></div>
-
-### 2dust--v2rayN
-
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.21.1</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.21.1)
-
-| File | Size | Download |
-|------|------|----------|
-| `v2rayN-linux-64.deb` | 72.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayN/v2rayN-linux-64.deb) |
-| `v2rayN-linux-arm64.deb` | 66.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayN/v2rayN-linux-arm64.deb) |
-| `v2rayN-linux-rhel-64.rpm` | 81.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayN/v2rayN-linux-rhel-64.rpm) |
-| `v2rayN-linux-rhel-arm64.rpm` | 76.8 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayN/v2rayN-linux-rhel-arm64.rpm) |
-| `v2rayN-linux-rhel-riscv64.rpm` | 78.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
-
----
-
 <div id="2dust--v2rayng"></div>
 
 ### 2dust--v2rayNG
