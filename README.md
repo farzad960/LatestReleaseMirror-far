@@ -157,6 +157,35 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="2dust--v2rayn"></div>
+
+### 2dust--v2rayN
+
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.20.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.20.4)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayN-linux-64.deb` | 68.9 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayN/v2rayN-linux-64.deb) |
+| `v2rayN-linux-arm64.deb` | 62.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayN/v2rayN-linux-arm64.deb) |
+| `v2rayN-linux-rhel-64.rpm` | 76.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayN/v2rayN-linux-rhel-64.rpm) |
+| `v2rayN-linux-rhel-arm64.rpm` | 71.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayN/v2rayN-linux-rhel-arm64.rpm) |
+| `v2rayN-linux-rhel-riscv64.rpm` | 72.6 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
+
+---
+
+<div id="2dust--v2rayng"></div>
+
+### 2dust--v2rayNG
+
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.0.18</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.0.18)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayNG_2.0.18-fdroid_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.0.18_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_arm64-v8a.apk) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
