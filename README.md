@@ -157,5 +157,27 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="2dust--v2rayng"></div>
 
+### 2dust--v2rayNG
+
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.0.18</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.0.18)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayNG_2.0.18-fdroid_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.0.18_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_arm64-v8a.apk) |
+
+---
+
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
+
+### therealaleph--MasterHttpRelayVPN-RUST
+
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.9</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.9)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhrv-rs-android-arm64-v8a-v1.9.9.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.9.apk) |
+| `mhrv-rs-windows-amd64.zip` | 6.9 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
