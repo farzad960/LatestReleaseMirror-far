@@ -1,5 +1,4 @@
 name: Sync latest releases & update README
-
 on:
     schedule:
     - cron: '0 */12 * * *'
