@@ -7,7 +7,7 @@
 2dust/v2rayNG|arm64-v8a
 
 # v2rayN - ویندوز
-2dust/v2rayN|windows
+2dust/v2rayN
 
 # MasterHttpRelayVPN - اندروید و ویندوز
 therealaleph/MasterHttpRelayVPN-RUST|android-arm64-v8a|windows-amd64
