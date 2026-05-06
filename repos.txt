@@ -12,3 +12,6 @@
 # MasterHttpRelayVPN - اندروید و ویندوز
 therealaleph/MasterHttpRelayVPN-RUST|android-arm64-v8a|windows-amd64
 
+# madmail - لینوکس ard64
+themadorg/madmail|amd64.tar.gz
+
