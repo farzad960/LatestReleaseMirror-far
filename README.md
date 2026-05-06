@@ -170,6 +170,18 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="themadorg--madmail"></div>
+
+### themadorg--madmail
+
+🔗 [source](https://github.com/themadorg/madmail) – [<code><small>v0.46.0</small></code>](https://github.com/themadorg/madmail/releases/tag/v0.46.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `madmail-linux-amd64.tar.gz` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/themadorg/madmail/madmail-linux-amd64.tar.gz) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
