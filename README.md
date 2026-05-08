@@ -182,6 +182,18 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="maromushii--pigeon"></div>
+
+### MaroMushii--Pigeon
+
+🔗 [source](https://github.com/MaroMushii/Pigeon) – [<code><small>v1.0.2</small></code>](https://github.com/MaroMushii/Pigeon/releases/tag/v1.0.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `Pigeon-1.0.2.zip` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MaroMushii/Pigeon/Pigeon-1.0.2.zip) |
+
+---
+
 <div id="themadorg--madmail"></div>
 
 ### themadorg--madmail
