@@ -18,3 +18,4 @@ themadorg/madmail|amd64.tar.gz
 # MHSanaei - لینوکس ard64
 MHSanaei/3x-ui|amd64.tar.gz
 
+MaroMushii/Pigeon|.zip
