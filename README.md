@@ -186,11 +186,11 @@ sha256sum FILE_NAME
 
 ### MaroMushii--Pigeon
 
-🔗 [source](https://github.com/MaroMushii/Pigeon) – [<code><small>v1.1.3</small></code>](https://github.com/MaroMushii/Pigeon/releases/tag/v1.1.3)
+🔗 [source](https://github.com/MaroMushii/Pigeon) – [<code><small>v2.7.2</small></code>](https://github.com/MaroMushii/Pigeon/releases/tag/v2.7.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `Pigeon-1.1.3.zip` | 9.9 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MaroMushii/Pigeon/Pigeon-1.1.3.zip) |
+| `Pigeon-2.7.2.zip` | 9.9 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MaroMushii/Pigeon/Pigeon-2.7.2.zip) |
 
 ---
 
