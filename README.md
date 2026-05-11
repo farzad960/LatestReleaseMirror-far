@@ -161,12 +161,12 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayNG
 
-🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.0.18</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.0.18)
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.1.7</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.1.7)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.0.18-fdroid_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.0.18_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_arm64-v8a.apk) |
+| `v2rayNG_2.1.7-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.1.7_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_arm64-v8a.apk) |
 
 ---
 
@@ -186,11 +186,11 @@ sha256sum FILE_NAME
 
 ### MaroMushii--Pigeon
 
-🔗 [source](https://github.com/MaroMushii/Pigeon) – [<code><small>v1.1.0</small></code>](https://github.com/MaroMushii/Pigeon/releases/tag/v1.1.0)
+🔗 [source](https://github.com/MaroMushii/Pigeon) – [<code><small>v1.1.2</small></code>](https://github.com/MaroMushii/Pigeon/releases/tag/v1.1.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `Pigeon-1.1.0.zip` | 9.0 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MaroMushii/Pigeon/Pigeon-1.1.0.zip) |
+| `Pigeon-1.1.2.zip` | 10.0 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MaroMushii/Pigeon/Pigeon-1.1.2.zip) |
 
 ---
 
