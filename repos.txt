@@ -20,4 +20,3 @@ MHSanaei/3x-ui|amd64.tar.gz
 
 MaroMushii/Pigeon|.zip
 
-KianmhzKianmhz/GooseRelayVPN|windows-amd64.zip
