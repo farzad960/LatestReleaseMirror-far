@@ -174,12 +174,12 @@ sha256sum FILE_NAME
 
 ### Kianmhz--GooseRelayVPN
 
-🔗 [source](https://github.com/Kianmhz/GooseRelayVPN) – [<code><small>v1.6.0</small></code>](https://github.com/Kianmhz/GooseRelayVPN/releases/tag/v1.6.0)
+🔗 [source](https://github.com/Kianmhz/GooseRelayVPN) – [<code><small>v1.7.0</small></code>](https://github.com/Kianmhz/GooseRelayVPN/releases/tag/v1.7.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `GooseRelayVPN-client-v1.6.0-windows-amd64.zip` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-windows-amd64.zip) |
-| `GooseRelayVPN-server-v1.6.0-windows-amd64.zip` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-windows-amd64.zip) |
+| `GooseRelayVPN-client-v1.7.0-windows-amd64.zip` | 2.6 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.7.0-windows-amd64.zip) |
+| `GooseRelayVPN-server-v1.7.0-windows-amd64.zip` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.7.0-windows-amd64.zip) |
 
 ---
 
@@ -199,11 +199,11 @@ sha256sum FILE_NAME
 
 ### MaroMushii--Pigeon
 
-🔗 [source](https://github.com/MaroMushii/Pigeon) – [<code><small>v1.1.7</small></code>](https://github.com/MaroMushii/Pigeon/releases/tag/v1.1.7)
+🔗 [source](https://github.com/MaroMushii/Pigeon) – [<code><small>v1.1.8</small></code>](https://github.com/MaroMushii/Pigeon/releases/tag/v1.1.8)
 
 | File | Size | Download |
 |------|------|----------|
-| `Pigeon-1.1.7.zip` | 10.1 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MaroMushii/Pigeon/Pigeon-1.1.7.zip) |
+| `Pigeon-1.1.8.zip` | 10.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MaroMushii/Pigeon/Pigeon-1.1.8.zip) |
 
 ---
 
