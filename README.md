@@ -174,12 +174,12 @@ sha256sum FILE_NAME
 
 ### Kianmhz--GooseRelayVPN
 
-🔗 [source](https://github.com/Kianmhz/GooseRelayVPN) – [<code><small>v1.7.0</small></code>](https://github.com/Kianmhz/GooseRelayVPN/releases/tag/v1.7.0)
+🔗 [source](https://github.com/Kianmhz/GooseRelayVPN) – [<code><small>v1.7.1</small></code>](https://github.com/Kianmhz/GooseRelayVPN/releases/tag/v1.7.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `GooseRelayVPN-client-v1.7.0-windows-amd64.zip` | 2.6 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.7.0-windows-amd64.zip) |
-| `GooseRelayVPN-server-v1.7.0-windows-amd64.zip` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.7.0-windows-amd64.zip) |
+| `GooseRelayVPN-client-v1.7.1-windows-amd64.zip` | 2.6 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.7.1-windows-amd64.zip) |
+| `GooseRelayVPN-server-v1.7.1-windows-amd64.zip` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.7.1-windows-amd64.zip) |
 
 ---
 
@@ -187,11 +187,11 @@ sha256sum FILE_NAME
 
 ### MHSanaei--3x-ui
 
-🔗 [source](https://github.com/MHSanaei/3x-ui) – [<code><small>v2.9.4</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v2.9.4)
+🔗 [source](https://github.com/MHSanaei/3x-ui) – [<code><small>v3.1.0</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.1.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `x-ui-linux-amd64.tar.gz` | 67.9 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MHSanaei/3x-ui/x-ui-linux-amd64.tar.gz) |
+| `x-ui-linux-amd64.tar.gz` | 70.2 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MHSanaei/3x-ui/x-ui-linux-amd64.tar.gz) |
 
 ---
 
