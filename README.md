@@ -187,7 +187,7 @@ sha256sum FILE_NAME
 
 ### MHSanaei--3x-ui
 
-🔗 [source](https://github.com/MHSanaei/3x-ui) – [<code><small>v3.2.5</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.2.5)
+🔗 [source](https://github.com/MHSanaei/3x-ui) – [<code><small>v3.2.6</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.2.6)
 
 | File | Size | Download |
 |------|------|----------|
