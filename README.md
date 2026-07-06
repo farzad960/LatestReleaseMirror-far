@@ -161,12 +161,14 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayNG
 
-🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.2.5</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.5)
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.2.6</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.6)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.2.5-fdroid_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayNG/v2rayNG_2.2.5-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.2.5_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayNG/v2rayNG_2.2.5_arm64-v8a.apk) |
+| `v2rayNG_2.2.6-fdroid_arm64-v8a.apk` | 27.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayNG/v2rayNG_2.2.6-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.2.6-fdroid_arm64-v8a.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayNG/v2rayNG_2.2.6-fdroid_arm64-v8a.apk.sig) |
+| `v2rayNG_2.2.6_arm64-v8a.apk` | 27.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayNG/v2rayNG_2.2.6_arm64-v8a.apk) |
+| `v2rayNG_2.2.6_arm64-v8a.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayNG/v2rayNG_2.2.6_arm64-v8a.apk.sig) |
 
 ---
 
