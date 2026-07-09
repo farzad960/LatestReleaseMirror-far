@@ -157,6 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="2dust--v2rayn"></div>
+
+### 2dust--v2rayN
+
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.23.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.23.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayN-windows-arm64.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.sig) |
+
+---
+
 <div id="2dust--v2rayng"></div>
 
 ### 2dust--v2rayNG
