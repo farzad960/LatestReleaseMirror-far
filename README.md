@@ -161,7 +161,7 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayN
 
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.23.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.23.4)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.24.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.24.4)
 
 | File | Size | Download |
 |------|------|----------|
