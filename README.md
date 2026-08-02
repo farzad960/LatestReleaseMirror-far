@@ -225,7 +225,7 @@ sha256sum FILE_NAME
 
 ### themadorg--madmail
 
-🔗 [source](https://github.com/themadorg/madmail) – [<code><small>v2.18.2</small></code>](https://github.com/themadorg/madmail/releases/tag/v2.18.2)
+🔗 [source](https://github.com/themadorg/madmail) – [<code><small>v2.20.0</small></code>](https://github.com/themadorg/madmail/releases/tag/v2.20.0)
 
 | File | Size | Download |
 |------|------|----------|
