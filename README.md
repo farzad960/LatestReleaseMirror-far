@@ -201,11 +201,11 @@ sha256sum FILE_NAME
 
 ### MHSanaei--3x-ui
 
-🔗 [source](https://github.com/MHSanaei/3x-ui) – [<code><small>v3.8.5</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.8.5)
+🔗 [source](https://github.com/MHSanaei/3x-ui) – [<code><small>v3.9.0</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.9.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `x-ui-linux-amd64.tar.gz` | 78.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MHSanaei/3x-ui/x-ui-linux-amd64.tar.gz) |
+| `x-ui-linux-amd64.tar.gz` | 78.0 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MHSanaei/3x-ui/x-ui-linux-amd64.tar.gz) |
 | `x-ui-linux-amd64.tar.gz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MHSanaei/3x-ui/x-ui-linux-amd64.tar.gz.sha256) |
 
 ---
