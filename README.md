@@ -161,7 +161,7 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayN
 
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.25.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.25.4)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.25.6</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.25.6)
 
 | File | Size | Download |
 |------|------|----------|
@@ -201,11 +201,11 @@ sha256sum FILE_NAME
 
 ### MHSanaei--3x-ui
 
-🔗 [source](https://github.com/MHSanaei/3x-ui) – [<code><small>v3.10.0</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.10.0)
+🔗 [source](https://github.com/MHSanaei/3x-ui) – [<code><small>v3.10.2</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.10.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `x-ui-linux-amd64.tar.gz` | 79.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MHSanaei/3x-ui/x-ui-linux-amd64.tar.gz) |
+| `x-ui-linux-amd64.tar.gz` | 79.6 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MHSanaei/3x-ui/x-ui-linux-amd64.tar.gz) |
 | `x-ui-linux-amd64.tar.gz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/MHSanaei/3x-ui/x-ui-linux-amd64.tar.gz.sha256) |
 
 ---
