@@ -226,11 +226,12 @@ sha256sum FILE_NAME
 
 ### themadorg--madmail
 
-🔗 [source](https://github.com/themadorg/madmail) – [<code><small>v2.30.5</small></code>](https://github.com/themadorg/madmail/releases/tag/v2.30.5)
+🔗 [source](https://github.com/themadorg/madmail) – [<code><small>v2.42.0</small></code>](https://github.com/themadorg/madmail/releases/tag/v2.42.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `madmail-linux-amd64.tar.gz` | 25.8 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/themadorg/madmail/madmail-linux-amd64.tar.gz) |
+| `madmail-linux-amd64.tar.gz` | 27.0 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/themadorg/madmail/madmail-linux-amd64.tar.gz) |
+| `madmail-windows-amd64.tar.gz` | 33.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad960/LatestReleaseMirror-far/main/releases/themadorg/madmail/madmail-windows-amd64.tar.gz) |
 
 ---
 
